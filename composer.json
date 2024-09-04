@@ -2,7 +2,7 @@
   "name": "jnewer/owladmin-webman",
   "type": "library",
   "license": "MIT",
-  "version": "3.8.5",
+  "version": "1.0.3",
   "description": "Webman plugin jnewer/owladmin",
   "require": {
     "php": ">=8.1",

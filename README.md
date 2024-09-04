@@ -82,7 +82,7 @@ DB_CONNECTION=mysql
 ## 安装数据
 
 ```shell
-php webman admin:install
+php start.php admin:install
 ```
 
 ## 运行
@@ -93,4 +93,4 @@ php start.php start
 
 ## 访问
 
-<http://127.0.0.1:8780/admin>
+<http://127.0.0.1:8787/admin>

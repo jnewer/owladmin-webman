@@ -3,7 +3,6 @@ owladmin-webman
 
 基于 [OwlAdmin](https://github.com/slowlyo/owl-admin) 修改的 Webman 扩展包。
 
-
 ## webman 安装
 
 ```shell
@@ -12,6 +11,7 @@ cd webman
 ```
 
 ## 数据库配置文件位置为 config/database.php
+
 ```shell
 return [
  // 默认数据库
@@ -40,7 +40,7 @@ return [
 ## 安装
 
 ```shell
-composer require jizhi/owladmin-webman
+composer require jnewer/owladmin-webman
 ```
 
 ## 配置 .env （按需添加）
@@ -80,6 +80,7 @@ DB_CONNECTION=mysql
 ```
 
 ## 安装数据
+
 ```shell
 php webman admin:install
 ```
@@ -92,5 +93,4 @@ php start.php start
 
 ## 访问
 
-http://127.0.0.1:8780/admin
-
+<http://127.0.0.1:8780/admin>

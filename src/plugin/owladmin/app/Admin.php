@@ -140,7 +140,7 @@ class Admin
         if (is_file(public_path('admin-assets/index.html'))) {
             $view = file_get_contents(public_path('admin-assets/index.html'));
         } else {
-            $view = file_get_contents(base_path('vendor/jizhi/owladmin/src/admin-assets/index.html'));
+            $view = file_get_contents(base_path('vendor/jnewer/owladmin/src/admin-assets/index.html'));
         }
 
         $script = '<script>window.$adminApiPrefix = "/' . $apiPrefix . '"</script>';

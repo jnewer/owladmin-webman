@@ -1,6 +1,6 @@
 <?php
 
-namespace Jizhi\Owladmin;
+namespace Jnewer\Owladmin;
 
 class Install
 {

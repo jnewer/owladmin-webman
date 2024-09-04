@@ -33,11 +33,11 @@
     "doctrine/annotations": "^2.0",
     "zoujingli/ip2region": "^2.0",
     "ext-bcmath": "*",
-    "jizhi/migrations-webman": "^1.0"
+    "jnewer/migrations-webman": "^1.0"
   },
   "autoload": {
     "psr-4": {
-      "Jizhi\\Owladmin\\": "src"
+      "Jnewer\\Owladmin\\": "src"
     }
   },
   "minimum-stability": "stable",

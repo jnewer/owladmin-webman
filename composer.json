@@ -23,14 +23,13 @@
     "taoser/webman-validate": "^1.7",
     "shopwwi/webman-filesystem": "^1.1",
     "overtrue/easy-sms": "^2.5",
-    "overtrue/wechat": "^5.35",
     "lpilp/guomi": "^1.0",
     "yzh52521/webman-throttle": "^1.1",
     "shopwwi/webman-auth": "^1.1",
     "tinywan/storage": "^1.0",
     "rap2hpoutre/fast-excel": "^5.5",
     "vlucas/phpdotenv": "^5.6",
-    "php-di/php-di": "^6",
+    "php-di/php-di": "^7",
     "doctrine/annotations": "^1.14",
     "zoujingli/ip2region": "^2.0",
     "ext-bcmath": "*",
@@ -42,11 +41,5 @@
     }
   },
   "minimum-stability": "stable",
-  "extra": {
-  },
-  "config": {
-    "allow-plugins": {
-      "easywechat-composer/easywechat-composer": true
-    }
-  }
+  "extra": {}
 }

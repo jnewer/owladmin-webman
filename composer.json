@@ -30,7 +30,7 @@
     "rap2hpoutre/fast-excel": "^5.5",
     "vlucas/phpdotenv": "^5.6",
     "php-di/php-di": "^7",
-    "doctrine/annotations": "^1.14",
+    "doctrine/annotations": "^2.0",
     "zoujingli/ip2region": "^2.0",
     "ext-bcmath": "*",
     "jizhi/migrations-webman": "^1.0"

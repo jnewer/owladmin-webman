@@ -11,11 +11,6 @@ composer create-project workerman/webman
 cd webman
 ```
 
-## 依赖注入
-```shell
-composer require psr/container ^1.1.1 php-di/php-di ^6 doctrine/annotations ^1.14
-```
-
 ## 数据库配置文件位置为 config/database.php
 ```shell
 return [
